@@ -6,7 +6,7 @@ public class MyArrayListTest {
 
     @Test
     void testSize() {
-         //MyArrayList myArrayList = new MyArrImpl();
+         //MyArrayList myArrayList = new MyArrListImpl();
          //assertEquals(0, myArrayList.size());
     }
 
